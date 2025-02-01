@@ -15,7 +15,8 @@ Jigsaw Comment Classification Challenge Dataset
 
 The Jigsaw dataset is a widely used benchmark dataset for toxicity detection. It contains user-generated comments from Wikipedia, labeled with different types of toxicity. The dataset is publicly available and has been used for various NLP classification tasks.
 
-Dataset Details
+Dataset Details 
+dataset link - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
 The dataset consists of the following files:
 
@@ -30,6 +31,7 @@ Each file contains user comments along with metadata and toxicity classification
 Source: Wikipedia discussion pages
 
 Size: 223,000+ comments
+
 
 INPUT METRICS-
 
