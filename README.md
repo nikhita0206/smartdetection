@@ -11,7 +11,7 @@ HOW IT HELPS TO SOLVE TH EPROBEM-
 Our AI solution provides automated, real-time detection and moderation of toxic comments, reducing the spread of misinformation and harmful speech online. The generative AI component ensures that flagged content is reworded in a non-toxic manner, encouraging positive communication.
 
 DATASET- 
-Jigsaw Comment Classification Challenge Dataset
+Jigsaw Comment Classification Challenge Dataset(https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 The Jigsaw dataset is a widely used benchmark dataset for toxicity detection. It contains user-generated comments from Wikipedia, labeled with different types of toxicity. The dataset is publicly available and has been used for various NLP classification tasks.
 
